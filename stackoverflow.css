@@ -1,0 +1,136 @@
+body{
+    background-color: aliceblue;
+}
+.top{
+    display: flex;
+    width: 100%;
+    background-color: white;
+    border-bottom-style: ridge;
+    border-color: aliceblue;
+    border-width: 2px;
+    padding: 6px;
+    vertical-align: bottom;
+}
+header ul{
+    list-style-type: none;
+    display: flex;
+    margin: 1px;
+    color: #636B74;  
+}
+.About{
+    padding: 6px 12px;
+}
+.Products{
+    padding: 6px 12px;
+}
+.Teams{
+    padding: 6px 12px;
+}
+.Search{
+    width: 500px;
+    border-radius: 9px;
+    background: #FFFFFF;
+    outline: none;
+    height: 33px;
+}
+.container{
+    flex-direction: column;
+    display: inline-block;
+    align-items: center;
+    margin: 50px 650px;
+    text-align: center;
+    justify-content: center;
+}
+.Google{
+    margin: 4px;
+    padding: 10.4px;
+    border-radius: 5px;
+    width: 300px;
+    background-color: white;
+    margin-bottom: 8px;
+    margin-top: 13px;
+}
+.GitHub{
+    margin: 4px;
+    padding: 10.4px;
+    border-radius: 5px;
+    width: 300px;
+    background-color: black;
+    color: white;
+    margin-bottom: 8px;
+}
+.facebook{
+    margin: 4px;
+    padding: 10.4px;
+    border-radius: 5px;
+    width: 300px;
+    background-color: #385499;
+    color: white;
+    margin-bottom: 8px;
+}
+.query{
+    width: 300px;
+    height: 230px;
+    background-color: #FFFFFF;
+    margin-top: 5px;
+    box-shadow: 2px 2px 2px grey;
+    border-radius: 5px;
+}
+input{
+    width: 250px;
+    padding: 7.8px 9.1px;
+    border-radius: 5px;
+    margin-top: 3px;
+    margin-bottom: 15px;
+}
+.Email{
+    margin-right: 200px;
+}
+a {
+    margin-left: 70px;
+    color: #1B75D0;
+}
+.log-in{
+    margin-top: 3px;
+    padding: 7.8px 9.1px;
+    border-radius: 5px;
+    width: 220px;
+    background-color: #385499;
+    color: #FFFFFF;
+    margin-bottom: 9px;
+}
+hr{
+    width: 88%;
+}
+.dont{
+    margin-top: 25px;
+}
+strong{
+    color: #1B75D0;
+}
+.fifth-segment{
+    align-content: center;
+    margin-left: 400px;
+ }
+ /* .restart{
+     color: white;
+     font-size: 20px;
+     align-items: center;
+     margin-left: 70px;
+ }
+ .email-two{
+     width: 500px;
+     height: 46px;
+     border-radius: 6px;
+     
+ }
+ .Get{
+     width: 200px;
+     height: 45px;
+     border-radius: 6px;
+     background-color: red;
+     font-weight: bold;
+     color: white;
+     font-size: 25px;
+     vertical-align: top;
+ } */
