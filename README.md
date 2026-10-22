@@ -1,6 +1,6 @@
 STACK OVERFLOW SIGN-IN PAGE RECREATION
 
-![Stack Overflow Sign-in Page Preview]
+!|Stack Overflow Sign-in Page Preview|
 (stackoverflow-preview.png.jpg)
 
 About the Project
