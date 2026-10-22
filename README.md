@@ -1,7 +1,6 @@
 STACK OVERFLOW SIGN-IN PAGE RECREATION
 
-! [Stack Overflow Sign-in Page Preview]
-(stackoverflow-preview.png.jpg)
+! [Stack Overflow Sign-in Page Preview](stackoverflow-preview.png.jpg)
 
 About the Project
 This project is a recreation of the Stack Overflow sign-in page, developed as part of my journey in learning front-end development. 
